@@ -1,0 +1,1 @@
+TODO App with React/Typescript and supabase for learning typescript
